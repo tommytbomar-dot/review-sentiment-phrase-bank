@@ -10,4 +10,4 @@ Rules baked in: no promises of refunds or guarantees, no admission of fault you 
 
 This is the free sample. A larger Pro bank (100+ replies for specific trades and clinics) is available — email tommytbomar@gmail.com with subject `WANT REVIEW BANK`.
 
-See [SUPPORT.md](SUPPORT.md) for the optional $97 support session. License: MIT.
+See [SUPPORT.md](SUPPORT.md) for the optional $125 support session. License: MIT.

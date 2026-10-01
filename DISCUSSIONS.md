@@ -22,7 +22,7 @@ A larger Pro bank by trade is available by email (`WANT REVIEW BANK`); this repo
 ## General
 
 ### Is this really free?
-Yes. The code/data is MIT licensed: use it, modify it, and use it for clients. The only paid thing is optional human help — see [SUPPORT.md](SUPPORT.md) ($97 session, email order).
+Yes. The code/data is MIT licensed: use it, modify it, and use it for clients. The only paid thing is optional human help — see [SUPPORT.md](SUPPORT.md) ($125 session, email order).
 
 ### Does it send my data anywhere?
 No. There is no server and no tracking. Nothing you enter is uploaded.
