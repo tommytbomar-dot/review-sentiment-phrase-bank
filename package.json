@@ -1,0 +1,7 @@
+{
+  "name": "review-sentiment-phrase-bank",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": { "test": "node --test test/", "build": "node build.js" },
+  "author": "Tommy Bomar / Spiel Ventures <tommytbomar@gmail.com>"
+}
